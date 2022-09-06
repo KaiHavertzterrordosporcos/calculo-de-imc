@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+background-color: whitesmoke;
+   text-align: center;
+    color: #e34543
+    
+}
+
+.botão{
+    position: relative;
+    text-align: center;
+    left:25px;
+    height: auto;
+    color: gray
+}
+    
+.titulo{
+    font-family: Arial;
+    color: red (red), (burlywood), (black);
+
+    
+}
+.caixadetexto{
+    font-size: 1vw;
+    left: 1vw;
+    background-color: blueviolet;
+}
